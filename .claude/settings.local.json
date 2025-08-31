@@ -12,7 +12,9 @@
       "Bash(gh repo clone:*)",
       "Bash(tree:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(rm:*)"
     ],
     "deny": [],
     "ask": []
