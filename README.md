@@ -10,10 +10,18 @@ A freemium real estate platform that enables realtors to create QR code-enabled 
 ## Business Model
 
 - **Free Tier**: Basic QR code generation and lead capture
-- **Pro Tier ($29/month)**: AI-generated follow-ups OR CRM integration
-- **Enterprise Tier ($99/month)**: Both features + advanced analytics + white-label
+- **Pro Tier ($25/month)**: AI-generated follow-ups OR CRM integration  
+- **Enterprise Tier ($79/month)**: Both features + advanced analytics + white-label
 
 ## Project Status
 
-**Phase**: Planning and Requirements Gathering  
-**Next Steps**: Technical architecture and MVP development
+**Phase**: Active Development - MVP Implementation  
+**Architecture**: Next.js + Cloudflare Workers + D1 Database  
+**Current Task**: Atomic migration from design mockup to production system
+
+## Key Documents
+
+- [Requirements](./REQUIREMENTS.md) - Business requirements and feature specifications
+- [Tech Stack](./TECH-STACK.md) - Technology decisions and justifications  
+- [Research Findings](./RESEARCH-FINDINGS.md) - Market analysis and competitive research
+- [Implementation Plan](./IMPLEMENTATION-PLAN.md) - Atomic migration strategy and execution plan
